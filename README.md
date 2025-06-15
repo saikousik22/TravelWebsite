@@ -13,17 +13,6 @@ A modern travel agency web application built with Node.js (Express) and a respon
 
 ## Project Structure
 
-```
-server.js                # Express backend (API & static file server)
-travel 21/
-  index.html             # Main frontend page
-  css/                   # Stylesheets (Bootstrap, custom)
-  js/
-    main.js              # Frontend logic (AJAX, UI)
-  img/                   # Images for packages, team, testimonials, etc.
-  ...
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -76,6 +65,3 @@ node server.js
 
 ## License
 MIT
-
----
-**Developed by Padarthi Sai Kousik**
